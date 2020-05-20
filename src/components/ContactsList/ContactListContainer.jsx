@@ -5,7 +5,7 @@ import * as userIdAction from "../redux/userIdAction"
 import ContactsList from "./ContactsList"
 import PropTypes from 'prop-types';
 
-ContactsList.PropTypes = {
+ContactsList.propTypes = {
   items: PropTypes.arrayOf(PropTypes.shape({
     id: PropTypes.number.isRequired,
     name: PropTypes.string.isRequired,

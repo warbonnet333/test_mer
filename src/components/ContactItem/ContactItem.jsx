@@ -29,7 +29,7 @@ const ContactItem = ({ id, name, surname, desc, onDeleteItem, openEditor, addUse
 }
 
 ContactItem.propTypes = {
-  id: PropTypes.number.isRequired,
+  id: PropTypes.number,
   name: PropTypes.string.isRequired,
   surname: PropTypes.string.isRequired,
   desc: PropTypes.string.isRequired,

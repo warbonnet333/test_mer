@@ -1,0 +1,38 @@
+.container {
+  width: 100px;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+
+.paginBtn {
+  height: 30px;
+  width: 30px;
+  background: transparent;
+  border: none;
+  margin-top: 15px;
+  /* cursor: pointer; */
+}
+
+.paginBtn svg {
+  height: 100%;
+}
+
+.paginBtnPrev path,
+.paginBtnNext path {
+  transition: all ease-in-out 150ms;
+}
+
+.paginBtn:hover .paginBtnPrev path {
+  stroke: #006699;
+}
+
+.paginBtn:hover .paginBtnNext path {
+  stroke: #006699;
+}
+
+.paginBtnDisable path,
+.paginBtnNextDis path {
+  stroke: transparent;
+}

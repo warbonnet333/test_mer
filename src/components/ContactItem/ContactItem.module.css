@@ -1,0 +1,50 @@
+.item {
+  background-color: #f4841a;
+  color: #222830;
+  border-radius: 10px;
+  padding: 0 0 10px 20px;
+  margin-bottom: 15px;
+  position: relative;
+  cursor: pointer;
+  text-align: left;
+}
+
+.nameContainer {
+  font-size: 24px;
+  display: flex;
+  flex-flow: row;
+  height: 50px;
+}
+
+.name {
+  margin-right: 10px;
+}
+
+.editors {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}
+
+.editBtn svg,
+.deleteBtn svg {
+  width: 30px;
+  margin-left: 10px;
+  transition: all ease-in-out 150ms;
+}
+
+.editBtn svg {
+  color: #222830;
+}
+
+.editBtn:hover svg {
+  color: white;
+}
+
+.deleteBtn svg {
+  fill: #222830;
+}
+
+.deleteBtn:hover svg {
+  fill: #e80505;
+}

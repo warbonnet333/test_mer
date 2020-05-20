@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/warbonnet333/test_mer/static/css/main.ebee9ea8.chunk.css",
-    "main.js": "/warbonnet333/test_mer/static/js/main.59ae4e0a.chunk.js",
-    "main.js.map": "/warbonnet333/test_mer/static/js/main.59ae4e0a.chunk.js.map",
-    "runtime-main.js": "/warbonnet333/test_mer/static/js/runtime-main.d11fae30.js",
-    "runtime-main.js.map": "/warbonnet333/test_mer/static/js/runtime-main.d11fae30.js.map",
-    "static/js/2.02e9ca43.chunk.js": "/warbonnet333/test_mer/static/js/2.02e9ca43.chunk.js",
-    "static/js/2.02e9ca43.chunk.js.map": "/warbonnet333/test_mer/static/js/2.02e9ca43.chunk.js.map",
-    "index.html": "/warbonnet333/test_mer/index.html",
-    "precache-manifest.e524105b71fe3c94be1555a6a6c43189.js": "/warbonnet333/test_mer/precache-manifest.e524105b71fe3c94be1555a6a6c43189.js",
-    "service-worker.js": "/warbonnet333/test_mer/service-worker.js",
-    "static/css/main.ebee9ea8.chunk.css.map": "/warbonnet333/test_mer/static/css/main.ebee9ea8.chunk.css.map",
-    "static/js/2.02e9ca43.chunk.js.LICENSE.txt": "/warbonnet333/test_mer/static/js/2.02e9ca43.chunk.js.LICENSE.txt",
-    "static/media/19915307351541068754.e3c35a22.svg": "/warbonnet333/test_mer/static/media/19915307351541068754.e3c35a22.svg",
-    "static/media/5899562021543238878.092eda00.svg": "/warbonnet333/test_mer/static/media/5899562021543238878.092eda00.svg"
+    "main.css": "/test_mer/static/css/main.ebee9ea8.chunk.css",
+    "main.js": "/test_mer/static/js/main.59ae4e0a.chunk.js",
+    "main.js.map": "/test_mer/static/js/main.59ae4e0a.chunk.js.map",
+    "runtime-main.js": "/test_mer/static/js/runtime-main.a5258702.js",
+    "runtime-main.js.map": "/test_mer/static/js/runtime-main.a5258702.js.map",
+    "static/js/2.02e9ca43.chunk.js": "/test_mer/static/js/2.02e9ca43.chunk.js",
+    "static/js/2.02e9ca43.chunk.js.map": "/test_mer/static/js/2.02e9ca43.chunk.js.map",
+    "index.html": "/test_mer/index.html",
+    "precache-manifest.83395c87ea97f123f783891770ad2f94.js": "/test_mer/precache-manifest.83395c87ea97f123f783891770ad2f94.js",
+    "service-worker.js": "/test_mer/service-worker.js",
+    "static/css/main.ebee9ea8.chunk.css.map": "/test_mer/static/css/main.ebee9ea8.chunk.css.map",
+    "static/js/2.02e9ca43.chunk.js.LICENSE.txt": "/test_mer/static/js/2.02e9ca43.chunk.js.LICENSE.txt",
+    "static/media/19915307351541068754.e3c35a22.svg": "/test_mer/static/media/19915307351541068754.e3c35a22.svg",
+    "static/media/5899562021543238878.092eda00.svg": "/test_mer/static/media/5899562021543238878.092eda00.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d11fae30.js",
+    "static/js/runtime-main.a5258702.js",
     "static/js/2.02e9ca43.chunk.js",
     "static/css/main.ebee9ea8.chunk.css",
     "static/js/main.59ae4e0a.chunk.js"

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/test_mer/static/css/main.ebee9ea8.chunk.css",
-    "main.js": "/test_mer/static/js/main.59ae4e0a.chunk.js",
-    "main.js.map": "/test_mer/static/js/main.59ae4e0a.chunk.js.map",
+    "main.js": "/test_mer/static/js/main.e776348e.chunk.js",
+    "main.js.map": "/test_mer/static/js/main.e776348e.chunk.js.map",
     "runtime-main.js": "/test_mer/static/js/runtime-main.a5258702.js",
     "runtime-main.js.map": "/test_mer/static/js/runtime-main.a5258702.js.map",
     "static/js/2.02e9ca43.chunk.js": "/test_mer/static/js/2.02e9ca43.chunk.js",
     "static/js/2.02e9ca43.chunk.js.map": "/test_mer/static/js/2.02e9ca43.chunk.js.map",
     "index.html": "/test_mer/index.html",
-    "precache-manifest.83395c87ea97f123f783891770ad2f94.js": "/test_mer/precache-manifest.83395c87ea97f123f783891770ad2f94.js",
+    "precache-manifest.9752f3becdecc301008ce1942b75f37f.js": "/test_mer/precache-manifest.9752f3becdecc301008ce1942b75f37f.js",
     "service-worker.js": "/test_mer/service-worker.js",
     "static/css/main.ebee9ea8.chunk.css.map": "/test_mer/static/css/main.ebee9ea8.chunk.css.map",
     "static/js/2.02e9ca43.chunk.js.LICENSE.txt": "/test_mer/static/js/2.02e9ca43.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a5258702.js",
     "static/js/2.02e9ca43.chunk.js",
     "static/css/main.ebee9ea8.chunk.css",
-    "static/js/main.59ae4e0a.chunk.js"
+    "static/js/main.e776348e.chunk.js"
   ]
 }

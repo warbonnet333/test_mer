@@ -6,8 +6,8 @@ import PropTypes from 'prop-types';
 
 const ContactItem = ({ id, name, surname, desc, onDeleteItem, openEditor, addUserId }) => {
 
-  const editUser = async () => {
-    await addUserId(id)
+  const editUser = () => {
+    addUserId(id)
     openEditor()
   }
 
